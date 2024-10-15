@@ -1,0 +1,2 @@
+no=org.example.core.fault.retry.NoRetryStrategy
+fixedInterval=org.example.core.fault.retry.FixedIntervalRetryStrategy

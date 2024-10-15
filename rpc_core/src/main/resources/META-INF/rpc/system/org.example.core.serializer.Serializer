@@ -1,0 +1,4 @@
+jdk=org.example.core.serializer.JdkSerializer
+json=org.example.core.serializer.JsonSerializer
+kryo=org.example.core.serializer.KryoSerializer
+hessian=org.example.core.serializer.HessianSerializer

@@ -1,0 +1,2 @@
+etcd=org.example.core.registry.EtcdRegistry
+zookeeper=org.example.core.registry.ZookeeperRegistry
